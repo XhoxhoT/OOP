@@ -24,4 +24,10 @@ public class Main {
         db.addHamburgerAddition1("you cannot have", 5);
         System.out.println(db.itemizeHamburger());
     }
+
+
+
+    public static void mbledhja (int number1, int number2){
+        System.out.println(number2*number1);
+    }
 }
